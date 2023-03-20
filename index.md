@@ -3,7 +3,6 @@
 
 ## Finite Difference Time Domain
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
 [![Open Notebook](https://img.shields.io/badge/VSCode-Open_Notebook-blue?logo=VisualStudioCode)](https://github.com/ferryatm/finite-difference-time-domain/blob/main/fdtd_2.py)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ferryatm/finite-difference-time-domain)
 
