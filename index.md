@@ -9,7 +9,7 @@
 
 <div style="text-align: justify">Finite Difference Time Domain (FDTD) is a numerical method used to solve partial differential equations (PDEs) that describe electromagnetic wave propagation. It is a time-domain approach that discretizes both space and time, representing the fields at each point on a grid and advancing the solution through time using iterative calculations. I have implemented a Python-based Finite Element Method to solve the Laplace equation in a square domain with homogeneous Dirichlet boundary conditions (the boundary values on each side of the domain zero) using matrix methods.</div>
 <br>
-<center><img src="[images/credit-risk-webapp.png](https://github.com/ferryatm/finite-difference-time-domain/blob/main/fdtd_2.png)"/></center>
+<center><img src="images/credit-risk-webapp.png"/></center>
 <br>
 
 ---
