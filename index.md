@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-## Computational physics
+## Computational Physics
 
 ### Finite Difference Time Domain
 
