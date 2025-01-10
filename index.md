@@ -4,13 +4,12 @@
 
 ### Customer Churn Prediction with CRISP-DM Framework on Home Credit Risk Dataset
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
 
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify">This project aims to assist Home Credit in reducing loan default risks through machine learning-based predictive models. The dataset used contains 307,511 rows and 122 columns, with the TARGET variable indicating payment status: 91.93% of loans were repaid, while 8.07% were defaulted. After understanding the data, preprocessing steps were applied, including imputing missing values, one-hot encoding, and creating new features such as the loan-to-income ratio. The best model was the Random Forest Classifier (RFC), achieving 87% accuracy and an AUC-ROC of 0.77, highlighting that factors such as younger age, occupation type, and the number of children significantly influence default risks. The evaluation identified high-risk groups, such as males, low-skilled workers, and large families, forming the basis for strategic recommendations in risk management. This model is deployed in real-time to provide risk predictions and support more effective decision-making for Home Credit.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/Final Project Dashboard.png"/></center>
 <br>
 
 ---
