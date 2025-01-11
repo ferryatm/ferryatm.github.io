@@ -4,8 +4,8 @@
 
 ### Customer Churn Prediction with CRISP-DM Framework on Home Credit Default Risk Dataset
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset/blob/main/Documents/Notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
 
 <div style="text-align: justify">This project utilized the Home Credit Default Risk dataset to develop a machine learning-based model for predicting default risk, with imbalanced target data (91.93% TARGET=0 and 8.07% TARGET=1). After imputing missing values, applying one-hot encoding, and creating features such as CREDIT_INCOME_PERCENT and DAYS_EMPLOYED_PERCENT, the Random Forest Classifier model achieved an accuracy of 87% and an AUC-ROC of 0.77.</div>
 <br>
