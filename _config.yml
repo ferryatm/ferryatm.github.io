@@ -12,13 +12,13 @@ description:
   <p align="justify">
   A dedicated junior geophysicist and data enthusiast with hands-on experience in subsurface exploration and data-driven decision-making. Eager to contribute to innovative projects that foster creativity.
   <br><br>
-  <div>
-  <i class="fa-solid fa-location-dot"></i>
-  Location: {{ cv_data.personal_information.location }}
-  </div>
-  <i class="fa-solid fa-phone"></i>
-  Contact: {{ cv_data.personal_information.contact_information }}
-  </div>
+
+reference:
+  <p align="left">
+  Mustika Jaya, Bekasi, Indonesia
+  +62 895-3871-85235
+  ferryaththaariq9@gmail.com
+  <br><br>
   </p>
   
 theme: jekyll-theme-minimal
