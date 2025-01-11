@@ -9,6 +9,8 @@
 
 <div style="text-align: justify">This project utilized the Home Credit Default Risk dataset to develop a machine learning-based model for predicting default risk, with imbalanced target data (91.93% TARGET=0 and 8.07% TARGET=1). After imputing missing values, applying one-hot encoding, and creating features such as CREDIT_INCOME_PERCENT and DAYS_EMPLOYED_PERCENT, the Random Forest Classifier model achieved an accuracy of 87% and an AUC-ROC of 0.77.</div>
 <br>
+<center><img src="images/Final Project Image.png"/></center>
+<br>
 <center><img src="images/Final Project Dashboard.png"/></center>
 <br>
 
