@@ -7,7 +7,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset/blob/main/Documents/Notebook.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
 
-<div style="text-align: justify">This project utilized the Home Credit Default Risk dataset to develop a machine learning-based model for predicting default risk, with imbalanced target data (91.93% vs 8.07%). After imputing missing values, applying one-hot encoding, and creating new features, the Random Forest Classifier (RFC) model achieved an accuracy of 87% and an AUC-ROC of 0.77.</div>
+<div style="text-align: justify">This project utilized the Home Credit Default Risk dataset to develop a machine learning-based model for predicting default risk, with imbalanced target data (91.93% vs 8.07%). After imputing missing values, applying one-hot encoding, and creating features, the Random Forest Classifier (RFC) model achieved 87% accuracy and 0.77 AUC-ROC.</div>
 <br>
 <center><img src="images/Final Project Image.png"/></center>
 <br>
