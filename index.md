@@ -2,12 +2,12 @@
 ---
 ## Data Science
 
-### Customer Churn Prediction with CRISP-DM Framework on Home Credit Risk Dataset
+### Customer Churn Prediction with CRISP-DM Framework on Home Credit Default Risk Dataset
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
 
-<div style="text-align: justify">This project aims to assist Home Credit in reducing loan default risks through machine learning-based predictive models. The dataset used contains 307,511 rows and 122 columns, with the TARGET variable indicating payment status: 91.93% of loans were repaid, while 8.07% were defaulted. After understanding the data, preprocessing steps were applied, including imputing missing values, one-hot encoding, and creating new features such as the loan-to-income ratio. The best model was the Random Forest Classifier (RFC), achieving 87% accuracy and an AUC-ROC of 0.77, highlighting that factors such as younger age, occupation type, and the number of children significantly influence default risks. The evaluation identified high-risk groups, such as males, low-skilled workers, and large families, forming the basis for strategic recommendations in risk management. This model is deployed in real-time to provide risk predictions and support more effective decision-making for Home Credit.</div>
+<div style="text-align: justify">This project utilized the Home Credit Default Risk dataset to develop a machine learning-based model for predicting default risk, with imbalanced target data (91.93% TARGET=0 and 8.07% TARGET=1). After imputing missing values, applying one-hot encoding, and creating features such as CREDIT_INCOME_PERCENT and DAYS_EMPLOYED_PERCENT, the Random Forest Classifier model achieved an accuracy of 87% and an AUC-ROC of 0.77. The most significant features were EXT_SOURCE_2 (-0.16 correlation with TARGET) and DAYS_BIRTH (-0.07).</div>
 <br>
 <center><img src="images/Final Project Dashboard.png"/></center>
 <br>
