@@ -16,7 +16,7 @@
 ---
 ### Real-time Forecasting of Global COVID-19 Trends with Random Forest Classifier
 
-[![Open Dashboard](https://img.shields.io/badge/Looker Studio-Open Dashboard-purple?logo=Jupyter)](https://intip.in/DashboardCovid19)
+[![Open Dashboard](https://img.shields.io/badge/Jupyter-Open Dashboard-purple?logo=Jupyter)](https://intip.in/DashboardCovid19)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
 
 <div style="text-align: justify">Through this project, we developed a Random Forest-based predictive model that accurately projects global COVID-19 case trends. The model was evaluated using metrics such as RMSE and MAE, demonstrating its effectiveness in predicting the number of new cases while identifying regions with potential case surges.</div>
