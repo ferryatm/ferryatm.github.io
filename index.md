@@ -5,7 +5,7 @@
 ### Customer Churn Prediction on Home Credit Default Risk Dataset
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset/blob/main/Documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-00C300?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
 
 <div style="text-align: justify">This project utilized the Home Credit Default Risk dataset to develop a machine learning-based model for predicting default risk, with imbalanced target data (91.93% vs 8.07%). After imputing missing values, applying one-hot encoding, and creating features, the Random Forest Classifier (RFC) model achieved 87% accuracy and 0.77 AUC-ROC.</div>
 <br>
@@ -17,7 +17,7 @@
 ### Real-time Forecasting of Global COVID-19 Trends with Random Forest Classifier
 
 [![Open Dashboard](https://img.shields.io/badge/Looker_Studio-Open_Dashboard-4285F4?logo=Looker)](https://intip.in/DashboardCovid19)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-00C300?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
 
 <div style="text-align: justify">Through this project, we developed a Random Forest-based predictive model that accurately projects global COVID-19 case trends. The model was evaluated using metrics such as RMSE and MAE, demonstrating its effectiveness in predicting the number of new cases while identifying regions with potential case surges.</div>
 <br>
