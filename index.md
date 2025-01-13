@@ -28,7 +28,7 @@
 ### Detikcom in Numbers: Understanding User Preferences
 
 [![Open Dashboard](https://img.shields.io/badge/Looker_Studio-Open_Dashboard-4285F4?logo=Looker)](http://intip.in/DashboardDetikcom)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Detikcom-User-Engagement-Analysis)
 
 <div style="text-align: justify">This dashboard allows us to delve deeper into what Detikcom users truly want. Through interactive data visualizations, we can understand reading preferences, identify trends, enhance engagement, analyze the time users spend on various types of content, optimize user experience, and ultimately drive business growth and improve user satisfaction.</div>
 <br>
@@ -39,7 +39,7 @@
 ### Real-time Forecasting of Global COVID-19 Trends with Random Forest Classifier
 
 [![Open Dashboard](https://img.shields.io/badge/Looker_Studio-Open_Dashboard-4285F4?logo=Looker)](https://intip.in/DashboardCovid19)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Covid-19-Global-Forecasting)
 
 <div style="text-align: justify">Through this project, we developed a Random Forest-based predictive model that accurately projects global COVID-19 case trends using a data-driven approach. The model was evaluated using metrics RMSE and MAE, demonstrating its effectiveness in predicting the number of new cases while identifying regions with potential case surges.</div>
 <br>
