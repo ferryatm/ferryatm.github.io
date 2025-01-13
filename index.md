@@ -36,12 +36,23 @@
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Exploratory Data Analysis: Uncovering Patterns Behind Telco Customer Churn
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset/blob/main/Documents/Notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
+
+<div style="text-align: justify">Through an in-depth analysis of churned customer data, we successfully identified the profiles of customers more likely to leave the service, the key factors influencing churn decisions, and the critical moments when customers are most likely to discontinue their subscriptions. These findings can be leveraged to develop more effective retention strategies.</div>
+<br>
+<center><img src="images/Exploratory Data Analysis Churn Analysis.png"/></center>
+<br>
+
+---
+### Predict Ames House Price using Lasso, Ridge, XGBoost, and LightGBM
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices.</div>
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
