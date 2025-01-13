@@ -19,7 +19,7 @@
 [![Open Dashboard](https://img.shields.io/badge/Looker_Studio-Open_Dashboard-4285F4?logo=Looker)](http://intip.in/DashboardDetikcom)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
 
-<div style="text-align: justify">This dashboard allows us to delve deeper into what Detikcom users truly want. Through interactive data visualizations, we can optimize user experience, enhance engagement, understand reading preferences, identify trends, analyze the time users spend on various types of content, and ultimately drive business growth.</div>
+<div style="text-align: justify">This dashboard allows us to delve deeper into what Detikcom users truly want. Through interactive data visualizations, we can optimize user experience, identify trends, enhance engagement, understand reading preferences, analyze the time users spend on various types of content, and ultimately drive business growth.</div>
 <br>
 <center><img src="images/Dashboard Detikcom User Engagement Analysis.png"/></center>
 <br>
