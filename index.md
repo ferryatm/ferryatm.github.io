@@ -4,8 +4,8 @@
 
 ### Exploratory Data Analysis: Uncovering Patterns Behind Telco Customer Churn
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset/blob/main/Documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://github.com/ferryatm/EDA-Uncovering-Patterns-Behind-Telco-Customer-Churn/blob/main/Documents/Notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/EDA-Uncovering-Patterns-Behind-Telco-Customer-Churn)
 
 <div style="text-align: justify">Through an in-depth analysis of churned customer data, we successfully identified the profiles of customers more likely to leave the service, the key factors influencing churn decisions, and also the critical moments when customers are most likely to discontinue their subscriptions. These findings can be leveraged to develop more effective retention strategies.</div>
 <br>
@@ -15,8 +15,8 @@
 ---
 ### Customer Churn Prediction on Home Credit Default Risk
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset/blob/main/Documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk-Dataset)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk/blob/main/Documents/Notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk)
 
 <div style="text-align: justify">This project utilized the Home Credit Default Risk dataset to develop a machine learning-based model for predicting default risk, with imbalanced target data (91.93% vs 8.07%). After imputing missing values, applying one-hot encoding, and creating features, the Random Forest Classifier (RFC) model achieved 87% accuracy and 0.77 AUC-ROC.</div>
 <br>
