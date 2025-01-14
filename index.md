@@ -47,12 +47,12 @@
 <br>
 
 ---
-### Predict Ames House Price using Lasso, Ridge, XGBoost, and LightGBM
+### Predict Ames House Prices and Practice Feature Engineering, RFs, and Gradient Boosting
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices.</div>
+<div style="text-align: justify">The prediction starts with exploratory data analysis and feature engineering to handle missing values, outliers, and create new features. Random Forest and Gradient Boosting models (XGBoost, LightGBM) are applied with an RMSE of 0.12 (log-transformed target). Linear Regression and Ridge Regression are used for comparison, with Ridge reducing overfitting and achieving lower errors (MAE, MSE, RMSE).</div>
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
