@@ -52,7 +52,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-<div style="text-align: justify">The prediction starts with exploratory data analysis and feature engineering to handle missing values, outliers, and create new features. Random Forest and Gradient Boosting models (XGBoost, LightGBM) are applied with an RMSE of 0.12 (log-transformed target). Linear Regression and Ridge Regression are used for comparison, with Ridge reducing overfitting and achieving lower errors (MAE, MSE, RMSE).</div>
+<div style="text-align: justify">The prediction begins with exploratory data analysis and feature engineering. Random Forest and Gradient Boosting models (XGBoost, LightGBM) are then applied, achieving an RMSE of 0.12 (log-transformed target). Linear Regression and Ridge Regression are used for comparison, with Ridge reducing overfitting and yielding lower errors (MAE, MSE, RMSE). Significant features such as OverallQual, GrLivArea, and GarageCars were identified, providing valuable insights into the factors influencing house prices.</div>
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
