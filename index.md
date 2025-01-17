@@ -13,6 +13,17 @@
 <br>
 
 ---
+### Mall Customer Segmentation Using KMeans Clustering
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://github.com/ferryatm/Mall-Customer-Segmentation-Data/blob/main/Documents/Notebook.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-2F9176?logo=GitHub)](https://github.com/ferryatm/Mall-Customer-Segmentation-Data)
+
+<div style="text-align: justify">This project focuses on applying KMeans Clustering to analyze customer data from a mall. The objective is to identify consumption patterns and customer segmentation based on data such as age, annual income, and spending score. Using a data-driven approach, this project generates customer groups that can be leveraged to support business strategies.</div>
+<br>
+<center><img src="images/3D KMeans Clustering.png"/></center>
+<br>
+
+---
 ### Customer Churn Prediction on Home Credit Default Risk
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://github.com/ferryatm/Customer-Churn-Prediction-Home-Credit-Default-Risk/blob/main/Documents/Notebook.ipynb)
